@@ -1,8 +1,8 @@
-# Toyol Kampung Escape
+# Cyber Safety Flap
 
 ## Overview
 
-Toyol Kampung Escape is a Construct 3 game developed as part of the CSC683 coursework. The project focuses on interactive gameplay, player movement, and game progression.
+Cyber Safety Flap is an educational game developed using Construct 3 to promote cybersecurity awareness through interactive gameplay. The project combines game mechanics with educational content.
 
 ## Technologies Used
 
@@ -10,15 +10,15 @@ Toyol Kampung Escape is a Construct 3 game developed as part of the CSC683 cours
 
 ## Skills Demonstrated
 
-- Character control
+- Educational game design
+- Event-driven programming
 - Collision detection
-- Event sheets
-- Game logic
-- Level design
+- Player interaction
+- User interface design
 
 ## Project File
 
-- `ToyolKampungEscape.c3p`
+- `CyberSafetyFlap.c3p`
 
 ## Course
 
